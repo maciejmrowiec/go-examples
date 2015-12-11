@@ -1,0 +1,12 @@
+# API server configuration
+
+# Listen address
+# Defaults to localhost
+listen: localhost
+
+# Port number
+# Defaults to 8080
+port: 443
+
+# Enviroment: DEV | PRODUCTION
+# environment: DEV
